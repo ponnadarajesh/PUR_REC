@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-AU" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 320276474 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Recurring Purch Inv.</source>
+          <target>Create Recurring Purch Inv.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Create Recurring Purch Inv. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 320276474 - Control 1817760606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <target>Order Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Create Recurring Purch Inv. - Control OrderDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 320276474 - Control 3037438984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Create Recurring Purch Inv. - Control PostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 320276474 - NamedType 2060319378" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must enter both a posting date and an order date.</source>
+          <target>You must enter both a posting date and an order date.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Create Recurring Purch Inv. - NamedType MissingDatesErr</note>
+        </trans-unit>
+        <trans-unit id="Report 320276474 - NamedType 2779639592" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creating Invoices #1##################</source>
+          <target>Creating Invoices #1##################</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Create Recurring Purch Inv. - NamedType ProgressMsg</note>
+        </trans-unit>
+        <trans-unit id="Report 320276474 - NamedType 1046851229" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 invoices were created.</source>
+          <target>%1 invoices were created.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Create Recurring Purch Inv. - NamedType NoOfInvoicesMsg</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
